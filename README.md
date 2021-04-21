@@ -2,7 +2,7 @@
 
 My name is Minsu Lee. A front-end developer truly enjoying React with TypeScript and love to make simple and beautiful interface.
 
-How to reach me: [![Gmail Badge](https://img.shields.io/badge/-gmail-c14438?style=flat-square&logo=Gmail&logoColor=ffffff)](mailto:minsulee.dev@gmail.com)
+If you have any questions or would like to chat, feel free to reach out! [![Gmail Badge](https://img.shields.io/badge/-gmail-c14438?style=flat-square&logo=Gmail&logoColor=ffffff)](mailto:minsulee.dev@gmail.com)
 
 ## Technology Stack
 
