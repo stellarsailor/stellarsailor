@@ -1,7 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=F0F8FF&height=250&section=header&text=Minsu%20Lee&fontSize=60&fontAlignY=45&desc=Inspired%20by%20beautiful%20websites&descAlignY=65&animation=twinkling&fontColor=a9a9a9)
+![header](https://capsule-render.vercel.app/api?type=waving&color=F0F8FF&height=250&section=header&text=Minsu%20Lee&fontSize=75&fontAlignY=40&desc=Inspired%20by%20beautiful%20websites&descAlignY=65&animation=twinkling&fontColor=a9a9a9)
 
 <div align="center">
-</br>
 
 ![HTML5](https://img.shields.io/badge/-HTML5-f3f3f3?style=flat-square&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-f3f3f3?style=flat-square&logo=css3&logoColor=blue)
