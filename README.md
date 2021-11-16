@@ -1,10 +1,7 @@
-## 👋 Hello!
+![header](https://capsule-render.vercel.app/api?type=waving&color=F0F8FF&height=250&section=header&text=Minsu%20Lee&fontSize=60&fontAlignY=45&desc=Inspired%20by%20beautiful%20websites&descAlignY=65&animation=twinkling&fontColor=a9a9a9)
 
-I am Minsu Lee. A full-stack developer truly enjoying React with TypeScript and love to make simple and beautiful interface.
-
-If you have any questions or would like to chat, feel free to reach out! [![Gmail Badge](https://img.shields.io/badge/-gmail-c14438?style=flat-square&logo=Gmail&logoColor=ffffff)](mailto:minsulee.dev@gmail.com)
-
-## Technology Stack
+<div align="center">
+</br>
 
 ![HTML5](https://img.shields.io/badge/-HTML5-f3f3f3?style=flat-square&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-f3f3f3?style=flat-square&logo=css3&logoColor=blue)
@@ -21,4 +18,11 @@ If you have any questions or would like to chat, feel free to reach out! [![Gmai
 ![AWS](https://img.shields.io/badge/-Amazon%20AWS-f3f3f3?style=flat-square&logo=amazon-aws&logoColor=232f3e)
 ![Git](https://img.shields.io/badge/-Git-f3f3f3?style=flat-square&logo=git)
 
+</br>
+</br>
+  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stellarsailor&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+If you have any questions or would like to chat, feel free to reach out! [![Gmail Badge](https://img.shields.io/badge/-gmail-c14438?style=flat-square&logo=Gmail&logoColor=ffffff)](mailto:minsulee.dev@gmail.com)
+ </div>
+
