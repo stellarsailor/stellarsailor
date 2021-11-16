@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=F0F8FF&height=250&section=header&text=Minsu%20Lee&fontSize=75&fontAlignY=40&desc=Inspired%20by%20beautiful%20websites&descAlignY=65&animation=twinkling&fontColor=a9a9a9)
+![header](https://capsule-render.vercel.app/api?type=waving&color=F0F8FF&height=250&section=header&text=Minsu%20Lee&fontSize=75&fontAlignY=40&desc=Inspired%20by%20beautiful%20websites&descAlignY=65&animation=twinkling&fontColor=595959)
 
 <div align="center">
 
